@@ -28,13 +28,20 @@ I'm Alexa Slomski a Full Stack Developer. I am coding with the lion king Kion. <
 ### **Experience with**
 
 #### Technologies
+
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 [![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)  [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#) 
 
 #### Databases
+
 [![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) 
 
+#### Version Control
+
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) 
+
 #### Testing Tool
+
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)  [![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#) 
 
 #### Package Manager
@@ -56,7 +63,7 @@ I'm Alexa Slomski a Full Stack Developer. I am coding with the lion king Kion. <
 
 ### **Currently Using**
 
-[![macOS Badge](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)](#) [![Macbook Pro Badge](https://img.shields.io/badge/Apple-MacBook_Pro_-999999?style=for-the-badge&logo=apple&logoColor=white)](#)  [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) 
+[![macOS Badge](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)](#) [![Macbook Pro Badge](https://img.shields.io/badge/Apple-MacBook_Pro_-999999?style=for-the-badge&logo=apple&logoColor=white)](#)  [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
 #### **Profile Visits**
 
