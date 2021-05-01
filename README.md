@@ -10,8 +10,6 @@ I'm Alexa Slomski a Full Stack Developer. I am coding with the lion king Kion. <
 
 ### **About me** ###
 
-<br/>
-
 <!--Add description-->
 - 🏢 I'm currently working at ...
 - 💻 Most used line of code `'git commit -m "Initial Commit"`
@@ -19,19 +17,15 @@ I'm Alexa Slomski a Full Stack Developer. I am coding with the lion king Kion. <
 - 📫 How to reach me: alexaslomski@gmail.com
 - 🚀 Fun fact: I am coding with the little lion king Kion 🦁
 
-<br/>
 
 ### **Top Technologies**
-<br/>
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)  [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
 
-<br/>
 
 ### **Experience with**
-<br/>
 
 #### Technologies
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
@@ -66,13 +60,9 @@ I'm Alexa Slomski a Full Stack Developer. I am coding with the lion king Kion. <
 
 [![macOS Badge](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)](#) [![Macbook Pro Badge](https://img.shields.io/badge/Apple-MacBook_Pro_-999999?style=for-the-badge&logo=apple&logoColor=white)](#)  [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) 
 
-<br/>
-
 #### **Profile Visits**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=snowleopardAlexa.snowleopardAlexa)
-
-<br/>
 
 #### **Github Stats**
 
