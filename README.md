@@ -53,10 +53,8 @@ I'm Alexa Slomski a Full Stack Developer. I am coding with the lion king Kion. <
 
 [![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)](#) [![Sketch Badge](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white)](#) 
 
-<br/>
 
 ### **Currently Using**
-<br/>
 
 [![macOS Badge](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)](#) [![Macbook Pro Badge](https://img.shields.io/badge/Apple-MacBook_Pro_-999999?style=for-the-badge&logo=apple&logoColor=white)](#)  [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) 
 
