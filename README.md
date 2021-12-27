@@ -2,7 +2,7 @@
 
  <br/>
 
-I'm Alexa Slomski a Full Stack Developer. I am coding with the lion king Kion. <br/><br/>
+I'm Alexa, a Front-End/React Developer. I am coding with Kion the Lion King. <br/><br/>
 
 :mailbox: **Reach me out!** <br/>
 
