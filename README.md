@@ -15,7 +15,7 @@ I'm Alexa, a Front-End/React Developer. I am coding with Kion the Lion King. <br
 - 💻 Most used line of code `'git commit -m "Initial Commit"`
 - 🧡🤍 I am dreaming of coding a full-stack app...
 - 📫 How to reach me: aleksandravslomska@gmail.com | alexaslomski@gmail.com
-- 🚀 Fun fact: I am coding with the little lion king Kion 🦁
+- 🚀 Fun fact: I am coding with @kion.the.lion.king 🦁
 
 
 ### **Top Technologies**
