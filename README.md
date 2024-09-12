@@ -2,7 +2,7 @@
 
  <br/>
 
-I'm Alexa, a Front-End | React Native | Full-Stack Developer. I am coding with Kion the Lion King. <br/><br/>
+I'm Alexa, a Front-End | WordPress Developer. I am coding with Kion the Lion King. <br/><br/>
 
 :mailbox: **Reach me out!** <br/>
 
