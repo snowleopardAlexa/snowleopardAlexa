@@ -11,10 +11,10 @@ I'm Alexa, a Front-End | WordPress Developer. I am coding with Kion the Lion Kin
 ### **About me** ###
 
 <!--Add description-->
-- 🏢 I'm currently working at ...
+- 🏢 I'm currently working at Kinexa Digital & TrapperAid
 - 💻 Most used line of code `'git commit -m "Initial Commit"`
-- 🧡🤍 I am dreaming of...
-- 📫 How to reach me: aleksandravslomska@gmail.com 
+- 🧡🤍 I am dreaming of building TrapperAid platform. 
+- 📫 How to reach me: aleksandravslomska@@gmail.com | alexakylernyc@gmail.com
 - 🚀 Fun fact: I am coding with @kion.the.lion.king 🦁
 
 
@@ -71,13 +71,6 @@ I'm Alexa, a Front-End | WordPress Developer. I am coding with Kion the Lion Kin
 
 [![macOS Badge](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)](#) [![Macbook Pro Badge](https://img.shields.io/badge/Apple-MacBook_Pro_-999999?style=for-the-badge&logo=apple&logoColor=white)](#)  [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
-#### **Profile Visits**
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=snowleopardAlexa.snowleopardAlexa)
-
-#### **Github Stats**
-
-![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowleopardAlexa&hide=contribs,prs&theme=synthwave)
 
  <br/>
 🧡 🦁 🤍
