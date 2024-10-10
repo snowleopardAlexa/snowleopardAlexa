@@ -2,7 +2,7 @@
 
  <br/>
 
-I'm Alexa, a Front-End | WordPress Developer. I am coding with Kion the Lion King. <br/><br/>
+I'm Alexa, a Front-End | CMS Developer | UX/UI Designer <br/><br/>
 
 :mailbox: **Reach me out!** <br/>
 
